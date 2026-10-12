@@ -1,0 +1,38 @@
+objetivo del pequeño proyecto: quiero saber en que estoy gastando mi dinero
+
+Necesito un menu:
+el menu me debe permitir por lo menos
+
+1. registrar gastos
+2. ver gastos
+3. salir
+
+
+cuando registre un gasto me debe pedir la cantidad de dinero, la categoria
+
+cantidad     este sera un tipo de dato entero
+categoria	 este sera un string, pero puede ser una lista con las ctagorias de entretenimiento, comida y transporte
+
+despues de registar deberia aprecer un mensaje en consola de "gasto registrado"
+
+mejoras para la version 2:
+
+falta programar la funcion calcular gasto
+
+despues programar para se guarde en un archivo json y no en un arrgelo
+
+por lo que debo estudiar:
+json, lectura y escritura de archivos
+
+mejoras para la version 3:
+
+estudiar y practicas las diferentes tipos de funciones en python
+estudiar programacion orientada a objetos para eveluar si seria mejor cambiar a una verison con clases y objetos
+
+estudiar sqlite para despues guardar todo en una base de datos sencilla
+
+despues estudiar como convertir en un ejecutable el programa para que de un solo clic poder correrlo
+
+
+
+
